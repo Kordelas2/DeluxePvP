@@ -434,7 +434,7 @@ h1{
     cursor: default;
 }
 
-@media screen and (max-width: 600px){
+@media screen and (max-width: 800px){
     .Gif{
         position: absolute;
         width: 200px;
